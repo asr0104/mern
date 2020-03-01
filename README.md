@@ -3,10 +3,10 @@
 ### Follow the steps to run:
 
 ```
-git clone https://github.com/asr0104/mern-forum.git
+git clone https://github.com/asr0104/mern.git
 ```
 ```
-cd mern-forum
+cd mern
 ```
 ```
 npm i
@@ -19,6 +19,7 @@ node index.js
 ```
 cd client
 ```
+yarn
 ```
 yarn start
 ```
